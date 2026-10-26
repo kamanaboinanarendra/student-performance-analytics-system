@@ -1,0 +1,26 @@
+Student_ID,Name,Department,Python,Java,DBMS,Networks,Maths,Attendance
+STD101,Aarav Sharma,Computer Science,95,92,94,96,94,95
+STD102,Diya Patel,Artificial Intelligence,96,94,93,93,95,96
+STD103,Rohan Verma,Data Science,90,91,88,92,94,92
+STD104,Sneha Reddy,Information Technology,82,85,88,80,84,89
+STD105,Vikram Malhotra,Computer Science,78,82,79,85,81,87
+STD106,Ananya Iyer,Artificial Intelligence,88,84,86,82,89,94
+STD107,Kavin Sundaram,Data Science,76,75,78,77,79,85
+STD108,Pooja Nair,Electronics,74,78,75,76,77,88
+STD109,Rahul Gupta,Information Technology,68,72,65,70,66,82
+STD110,Priya Singh,Computer Science,62,64,66,68,65,80
+STD111,Arjun Das,Electronics,70,65,68,62,67,84
+STD112,Meera Joshi,Artificial Intelligence,60,62,64,61,63,78
+STD113,Sanjay Kumar,Data Science,72,70,69,71,73,86
+STD114,Neha Kulkarni,Information Technology,45,48,50,42,52,75
+STD115,Amit Roy,Computer Science,55,52,58,54,56,83
+STD116,Deepa Menon,Electronics,38,40,42,39,41,74
+STD117,Manish Tiwari,Artificial Intelligence,35,35,35,35,35,70
+STD118,Siddharth Rao,Computer Science,90,80,75,20,85,88
+STD119,Ritu Sen,Information Technology,78,82,30,76,80,85
+STD120,Karthik Pillai,Data Science,85,32,78,80,75,86
+STD121,Tanvi Bhatia,Electronics,40,28,45,30,42,72
+STD122,Gaurav Saxena,Computer Science,25,30,28,32,34,68
+STD123,Shreya Chawla,Artificial Intelligence,20,22,25,18,24,65
+STD124,Harish Nambiar,Information Technology,34,36,38,35,37,73
+STD125,Divya Chauhan,Data Science,50,33,55,48,52,79
